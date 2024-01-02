@@ -1,0 +1,26 @@
+
+body{
+    background:rgb(218, 218, 172);
+    min-height:100vh;
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+button{
+    font-size:42px;
+    padding:30px;
+    margin:10px;
+    width:220px;
+    height:200px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+img{
+    width:220px;
+    height:200px;
+}
+
