@@ -1,6 +1,6 @@
 
 body{
-    background:red;
+    background:rgb(154, 146, 146);
     min-height:100vh;
     margin:0;
     display:flex;
@@ -12,8 +12,8 @@ button{
     font-size:42px;
     padding:30px;
     margin:10px;
-    width:220px;
-    height:200px;
+    width:250px;
+    height:250px;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -21,6 +21,26 @@ button{
 
 img{
     width:220px;
-    height:200px;
+    height:230px;
+    align-items:center;
+    justify-content:center;
 }
+
+h1{
+    color:blanchedalmond;
+    margin-top:-390px;
+    margin-left:-277px;
+}
+
+p{
+    color: antiquewhite;
+}
+
+h3{
+    margin-top:400px;
+    margin-left:-250px;
+    align-items:center;
+    
+}
+
 
