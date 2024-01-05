@@ -7,5 +7,5 @@ button.addEventListener("click", increaseScore);
 function increaseScore() {
     score++;
     document.querySelector('#score').innerHTML = 'Score: ' + score;
-    console.log('Score: '  + score);
+    console.log('Score: ' + score);
 }
