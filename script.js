@@ -8,3 +8,4 @@ function increaseScore() {
     console.log('Score: '  + score);
     
 }
+document.querySelector('#score').innerHTML = 'Score: ' + score;
